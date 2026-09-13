@@ -1,0 +1,26 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# 编译产物
+*.o
+*.out
+*.exe
+*.class
+a.out
+
+# 编辑器 / 工具
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 本地上传缓存（不属于作业提交内容）
+uploads/
+agent-tools/
